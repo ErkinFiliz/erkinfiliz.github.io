@@ -20,6 +20,8 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: METU-ME
+    url: /METU-ME
 
 social:
   github: ErkinFiliz
