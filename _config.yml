@@ -18,10 +18,10 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
   - title: METU-ME
     url: /METU-ME
+  - title: Contact
+    url: /contact
 
 social:
   github: ErkinFiliz
