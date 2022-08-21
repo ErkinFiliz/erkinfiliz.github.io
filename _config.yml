@@ -18,6 +18,10 @@ navigation:
     url: /index.html
   - title: About
     url: /about
+  - title: CV
+    url: /CV
+  - title: Publications
+    url: /Publications
   - title: METU-ME
     url: /METU-ME
   - title: Contact
