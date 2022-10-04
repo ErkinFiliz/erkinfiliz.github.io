@@ -4,7 +4,7 @@ title: METU Mechanichal Engineering
 ---
 Here you can find all of my notes and related course materials throughout my education at Middle East Technical University Mechanical Engineering Department
 ## Undergraduate
-### 1<sup>st</sup> Year Course
+### 1<sup>st</sup> Year Courses
 
 | Code                                                                         | Title                                  | My Notes |
 | ---------------------------------------------------------------------------- | -------------------------------------- | -------- |
@@ -12,7 +12,7 @@ Here you can find all of my notes and related course materials throughout my edu
 
 ---
 
-### 2<sup>nd</sup> Year Course
+### 2<sup>nd</sup> Year Courses
 
 | Code                                                                         | Title                                   | My Notes |
 | ---------------------------------------------------------------------------- | --------------------------------------- | ----- |
@@ -28,7 +28,7 @@ Here you can find all of my notes and related course materials throughout my edu
 
 ---
 
-### 3<sup>rd</sup> Year Course
+### 3<sup>rd</sup> Year Courses
 
 | Code                                                                         | Title                                   | My Notes |
 | ---------------------------------------------------------------------------- | --------------------------------------- | ----- |
@@ -44,7 +44,7 @@ Here you can find all of my notes and related course materials throughout my edu
 
 ---
 
-### 4<sup>th</sup> Year Course
+### 4<sup>th</sup> Year Courses
 
 | Code                                                                         | Title                                   | My Notes |
 | ---------------------------------------------------------------------------- | --------------------------------------- | ----- |
